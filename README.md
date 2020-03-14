@@ -1,6 +1,6 @@
 # Shader Graphs MToon for URP VR
 
-![main](README/shadergraphsmtoon.jpg)
+![main](README/ShaderGraphsMToon.jpg)  
 
 ## Requirements
 - Unity 2019.3.5f1  
