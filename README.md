@@ -1,6 +1,6 @@
 # Shader Graphs MToon for URP VR
 
-![](./README/ShaderGRaphsMToon.jpg)
+![](README/ShaderGRaphsMToon.jpg)
 
 ## Requirements
 - Unity 2019.3.5f1  
@@ -14,4 +14,4 @@ Play VR Single Pass Stereo Rendering Mode.
 
 A cube GameObject has the MToon Shader.  
 
-![graph](./README/ShaderGraph.jpg)  
+![graph](README/shadergraph.jpg)  
