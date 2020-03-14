@@ -1,0 +1,11 @@
+- What is MToon by Virtual Cast, Inc.
+https://www.slideshare.net/VirtualCast/vrm-mtoon
+
+
+- Making a Toon Shader with Unity! (Shader Graph tutorial) by Unity
+https://www.youtube.com/watch?v=_jTXd3x6gOY
+
+Download the project here: https://ole.unity.com/OwlProject
+Check out MinionsArt here: https://ole.unity.com/MinionsArt
+
+In this video, we're using Shader Graph in Unity to make a toon shader with toon ramp, and specular effect.
