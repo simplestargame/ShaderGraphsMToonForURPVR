@@ -3,8 +3,8 @@
 ![main](README/ShaderGraphsMToon.jpg)  
 
 ## Requirements
-- Unity 2019.3.5f1  
-    - Universal RP 7.1.8  
+- Unity 2019.4.20f1  
+    - Universal RP 7.5.3  
 
 ## Getting Started
 
