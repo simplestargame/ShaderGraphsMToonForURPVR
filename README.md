@@ -1,5 +1,10 @@
 # Shader Graphs MToon for URP VR
 
+New URP Toon Shader -> https://github.com/simplestargame/SimpleURPToonLitOutlineExample
+
+This repository is old.  
+This shader does not support the latest UniVRM.
+
 ![main](README/ShaderGraphsMToon.jpg)  
 
 ## Requirements
